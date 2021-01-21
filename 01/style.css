@@ -1,0 +1,19 @@
+body{
+    font-family: Arial;
+    background-color:cornflowerblue;
+}
+
+.content{
+    background-color: black;
+    width: 500px;
+    padding: 60px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color:blanchedalmond;
+}
+
+.content h1{
+    text-trasnform:uppercase;
+}
