@@ -69,7 +69,7 @@ Real radar  --  Virtual radar
 Use Django and bootstrap to develop a personal blog, to be continued...  
 
 <div align="center" class="half">
-<img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/blog1.png" width="200"/><img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/blog2.png" width="200"/>
+<img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/blog1.png" width="300"/> <img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/blog2.png" width="300"/>
 </div>
 
 
@@ -85,7 +85,7 @@ Use Django and bootstrap to develop a personal blog, to be continued...
   
 🌱 I’m currently learning Tableau 
  
-👯 I’m looking to collaborate on ...
+👯 I’m looking for a job as data scientist / data analysis in Germany
   
 </div>
 
