@@ -30,15 +30,15 @@ This work is focused on the following three simulation tools, CARLA, MATLAB, and
 ###Carla Simulator###
 <img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/33.png">
   
-  ###Carla Simulator###
+###Carla Simulator###
 <img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/44.png">
   
-  ###Carla Simulator###
+###Carla Simulator###
 <img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/55.png">
   
-  ###Carla Simulator###
+###Carla Simulator###
 <img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/66.png">
-  <img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/77.png">
+<img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/77.png">
 
 
 
