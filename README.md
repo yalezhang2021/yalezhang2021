@@ -39,13 +39,19 @@ This work is focused on the following three simulation tools, CARLA, MATLAB, and
 Input: Lidar point clouds and Lidar sensor positions at each frame
 Output: 3D mesh environment
 </div>
-<img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/66.png" >
+
+<center class="half">
+    <img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/image.png" width="200"/><img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/Webp.net-gifmaker%20(3).gif" width="200"/><img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/fig11.png" width="200"/>
+</center>
+<img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/image.png" width="300"> 
+<img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/Webp.net-gifmaker%20(3).gif" width="300"> 
+<img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/fig11.png" width="300">
 
 
 
 
 
-
+<div align="center">
 
 🔭 I’m currently working on developing Blog with Django  
   
