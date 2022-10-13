@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/Black%20White%20Modern%20Software%20Engineer%20Resume%20Website%20(1).png">
-<img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/1.png">
-<img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/2.png">
 
 <img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/11.png">
 <img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/22.png">
