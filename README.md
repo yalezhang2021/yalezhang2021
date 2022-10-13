@@ -19,10 +19,10 @@ Here are some ideas to get you started:
   
 <div align="center">
 
-- 🔭 I’m currently working on developing Blog with Django  
+🔭 I’m currently working on developing Blog with Django  
   
 
-- 🌱 I’m currently learning SQL and Tableau  
+🌱 I’m currently learning SQL and Tableau  
   
 </div>
 
