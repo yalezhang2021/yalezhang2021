@@ -65,11 +65,20 @@ Real radar  --  Virtual radar
 </div>  
 </div>
 
+## 2. 3D-environment reconstructed from Lidar point clouds
+Use Django and bootstrap to develop a personal blog, to be continued...  
+
+<div align="center" class="half">
+<img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/blog1.png width="200"/><img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/blog2.png width="200"/>
+</div>
+
+
 <br>
 
 ---
 
-#Cureently Work
+# **Currently Work**
+
 <div align="center">
 
 🔭 I’m currently working on developing Blog with Django  
