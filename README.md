@@ -17,16 +17,12 @@ Here are some ideas to get you started:
 <img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/Black%20White%20Modern%20Software%20Engineer%20Resume%20Website%20(1).png">
 
   
-
-### <div align="center">I'm Yao 🚀</div>  
-  
+<div align="center">
 
 - 🔭 I’m currently working on developing Blog with Django  
   
 
 - 🌱 I’m currently learning SQL and Tableau  
   
+</div>
 
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
