@@ -27,18 +27,19 @@ This work is focused on the following three simulation tools, CARLA, MATLAB, and
 
 ### - Carla Simulator -
 
-<img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/44.png">
+<img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/44.png" width="500">
 
 ### - Matlab Scenario designer -
-<img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/55.png">
+<img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/55.png" width="500">
 
 ### - MIMO Radar Simulator -
-<img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/66.png">
+<img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/66.png" width="500">
 
 ## 2. 3D-environment reconstructed from Lidar point clouds
 Input: Lidar point clouds and Lidar sensor positions at each frame
 Output: 3D mesh environment
-<img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/66.png">
+</div>
+<img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/66.png" >
 
 
 
