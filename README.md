@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/11.png">
 <img src="https://github.com/yalezhang2021/yalezhang2021/blob/main/22.png">
+
+## Email: yao.zhang2023@gmail.com
+
 </div>  
 
 <br/>  
@@ -100,15 +102,18 @@ Use Django and bootstrap to develop a personal blog, to be continued...
 
 ---
 
-# **Currently Work**
+# **Currently**
 
 <div align="center">
 
 🔭 I’m currently working on developing Blog with Django  
   
-🌱 I’m currently learning Tableau 
+🌱 learn Tableau 
  
-👯 I’m looking for a job as data scientist / data analysis in Germany
+👯 Maybe hiking on the road
+
+😄 open to new projects
+
   
 </div>
 
