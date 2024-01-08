@@ -3,6 +3,7 @@
 * Graduated from the University of Erlangen-Nurnberg.
 * Have experience in sensor simulation and 3D-scenario reconstruction.
 * Have experience in industry software developing.
+* German / English / Chinese
 
 ---
 
