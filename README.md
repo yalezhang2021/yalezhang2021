@@ -1,6 +1,3 @@
-<!--
-**yalezhang2021/yalezhang2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # // ABOUT ME
 
 * Graduated from the University of Erlangen-Nurnberg.
