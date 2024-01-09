@@ -16,7 +16,7 @@
 
 ### // Previous Work
 
-* MultiZone Recovery function developing for industry software TrackMaster("SuperTrack").
+* [MultiZone Recovery function developing for industry software TrackMaster("SuperTrack").]((https://github.com/yalezhang2021/MultiZoneRecovery-demo/tree/master))
 * [Sensor data simulation in different simulation platforms and 3D-Scenario reconstruction.](https://github.com/yalezhang2021/ComputerVision)
 
 * [Computer Room Reservation Management System](https://github.com/yalezhang2021/Computer-Room-Reservation-Management-System)
