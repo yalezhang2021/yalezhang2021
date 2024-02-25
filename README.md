@@ -9,8 +9,10 @@
 
 ### // Programming  with
 
-* C++, C#, C, Python, SQL
-* Visual Studio, GitHub
+* C++, C#, C, Python, MySQL, Qt, Matlab
+* Visual Studio 2022, VsCode, GitHub, GitLab
+* Win/Linux Platform
+* Scrum
 
 ---
 
