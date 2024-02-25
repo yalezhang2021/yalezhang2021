@@ -18,10 +18,9 @@
 
 * [MultiZone Recovery function developing for industry software TrackMaster("SuperTrack").](https://github.com/yalezhang2021/MultiZoneRecovery-demo/tree/master)
 * [Sensor data simulation in different simulation platforms and 3D-Scenario reconstruction.](https://github.com/yalezhang2021/ComputerVision)
-
 * [Computer Room Reservation Management System](https://github.com/yalezhang2021/Computer-Room-Reservation-Management-System)
-
 * [STL based speech contest management](https://github.com/yalezhang2021/STL-based-speech-contest-management/tree/master)
+* [Qt basic projects](https://github.com/yalezhang2021/Qt-Basic/tree/master)
 
 ---
 
