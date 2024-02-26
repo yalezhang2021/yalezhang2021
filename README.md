@@ -12,7 +12,7 @@
 * C++, C#, C, Python, MySQL, Qt, Matlab
 * Visual Studio 2022, VsCode, GitHub, GitLab
 * Win/Linux Platform
-* Scrum
+* Jira, Confluence...
 
 ---
 
