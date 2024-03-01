@@ -9,7 +9,7 @@
 
 ### // Programming  with
 
-* C++, C#, C, Python, MySQL, Qt, Matlab
+* C++, C#, C, Python, MySQL, Qt, Matlab, JSON, CMake
 * Visual Studio 2022, VsCode, GitHub, GitLab
 * Win/Linux Platform
 * Jira, Confluence...
